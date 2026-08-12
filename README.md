@@ -17,7 +17,7 @@ Give Claude a realestate.com.au / Domain link (or an address), and it produces a
 Requires [Claude Code](https://claude.com/claude-code) (or the Claude desktop app with skills support).
 
 ```bash
-git clone https://github.com/mra2898/unit-cma-lite.git
+git clone https://github.com/theshuailuo/unit-cma-lite.git
 cp -r unit-cma-lite ~/.claude/skills/unit-cma-lite
 ```
 
